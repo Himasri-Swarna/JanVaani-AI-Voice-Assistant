@@ -1,0 +1,7 @@
+{
+  "name": "JanVaani – The Voice of the People",
+  "description": "A multilingual AI voice call assistant that simulates a real-time phone call with an AI. Users can have a two-way voice conversation in any Indian language, and the assistant listens, understands, and replies in the same language.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
