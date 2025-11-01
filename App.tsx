@@ -176,9 +176,6 @@ const App: React.FC = () => {
           </div>
         </div>
       </div>
-       <footer className="text-center text-gray-500 mt-4 text-sm">
-        <p>Powered by Gemini</p>
-      </footer>
     </div>
   );
 };
